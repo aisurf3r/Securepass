@@ -613,7 +613,7 @@ function App() {
       <footer className="text-center p-4 text-white/80 text-sm flex items-center justify-center gap-2">
         <p>© 2025 SecurePass. Built with security and privacy in mind.</p>
         <a 
-          href="https://github.com/aisurf3r/securepass.git" 
+          href="https://github.com/aisurf3r/Securepass.git" 
           target="_blank" 
           rel="noopener noreferrer"
           className="text-white/80 hover:text-white transition-colors"

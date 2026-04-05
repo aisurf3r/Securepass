@@ -8,7 +8,7 @@
 
 A secure, privacy-focused password generator that uses mouse movements to collect entropy and generate cryptographically strong passwords.
 
-[Live Demo](#) | [Report Bug](https://github.com/aisurf3r/Securepass/issues) | [Request Feature](https://github.com/aisurf3r/Securepass/issues)
+[Live Demo]([#](https://securepassgenerator.vercel.app/)) | [Report Bug](https://github.com/aisurf3r/Securepass/issues) | [Request Feature](https://github.com/aisurf3r/Securepass/issues)
 
 </div>
 
